@@ -4,12 +4,12 @@ A beginner-friendly, reliable bitcoin wallet to introduce new users to the world
 
 # Build & Test the Code Locally
   **Requirements**
-  '''
+  ```
     Python: https://www.python.org/downloads/   |(And the package-manager pip)
     NodeJS: https://nodejs.org/en/download/     |(And the package-manager npm)
     Gulp  : npm install gulp --global
             npm install gulp
-  '''
+  ```
 
 1) Clone the repository into a folder and open it with your editor/IDE of choice.
 2) Install dependencies as listed in the package.json file with 'npm install'.
